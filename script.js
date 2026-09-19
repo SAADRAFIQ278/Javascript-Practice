@@ -93,12 +93,3 @@
 //     console.log("It cant be divided by 3 & 5");
     
 // }
-
-    
-
-
-
-
-
-
-
