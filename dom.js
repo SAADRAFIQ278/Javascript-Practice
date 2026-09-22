@@ -66,16 +66,19 @@
 //     }
 // })
 
-let btn = document.getElementById("btn");
-let nameInput = document.getElementById("nameInput");
-let mail = document.getElementById("mail");
-let para = document.getElementById("para");
+// let btn = document.getElementById("btn");
+// let nameInput = document.getElementById("nameInput");
+// let mail = document.getElementById("mail");
+// let para = document.getElementById("para");
 
 
-btn.addEventListener("click", function(){
-if (nameInput.value === "" || mail.value === ""){
-    para.innerText = "please fill all the field"
-}else{
-    para.innerText = "Welcome " + nameInput.value
-}
-})
+// btn.addEventListener("click", function(){
+// if (nameInput.value === "" || mail.value === ""){
+//     para.innerText = "please fill all the field"
+// }else{
+//     para.innerText = "Welcome " + nameInput.value
+// }
+// })
+
+// let title = document.getElementById("tilte")
+// title.textContent = "Welcome Saad!"
